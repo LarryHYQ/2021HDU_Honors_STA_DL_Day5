@@ -26,4 +26,3 @@
 ------
 
 ![](image/demo_result_10epochs.jpg)
-# 2021HDU_Honors_STA_DL_Day5
